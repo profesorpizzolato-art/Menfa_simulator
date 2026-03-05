@@ -1,0 +1,8 @@
+MENFA_SIMULADOR/
+│
+├── simulador.py
+├── motor_fisico.py
+├── interfaz_cabina.py
+│
+├── assets/
+│   └── logo_menfa.png
